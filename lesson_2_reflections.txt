@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+	You allow git to keep track of the changes you make to files in the directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	The staging area is in between the working directory and the repostitory. It is a place where files are placed before they are commited to version control. Files can be removed from the staging area with the git reset <file> command. The staging area allows you to group files together to be commited based on logical changeds to them, based on informatin changed, etc.

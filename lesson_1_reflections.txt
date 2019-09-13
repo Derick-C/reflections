@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Fill in your answer here: its easier to compare and keep track of changes.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Fill in your answer here: You can not only see the changes that you have made and
+and the changes that others have made but it allows you to recover your data if
+something wen't wrong. It also lets you go back to a previous point in the developement
+process in case you think you can improve what you are doing from a previous version.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Fill in your answer here: Pros - you have logic control over commits.
+    Cons - if something happens you may lose your data without recording changes.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Fill in your answer here: Git allows you to work and commit files off-line and through
+    manual commits. It also lets you keep track of multiple files that might be needed to
+    complete a required step in your developement. Google Docs is online and commits take
+    place automaticaly and only on the file that is being worked on.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here: git log shows all the changes that have been made to the file.
+    git diff can compare different commits to one another and show line by line the changes made.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here: there is a way to go back to a working state in your developement.
+    You can also look at the changes you made that led to the introduction of bugs.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here: continue with the lessons to aquire more knowledge and experience
+    using Git!
