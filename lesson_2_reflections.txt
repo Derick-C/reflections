@@ -6,3 +6,6 @@ How is the staging area different from the working directory and the repository?
 
 How can you use the staging area to make sure you have one commit per logical change?
 	You only add a file to the staging area after a logical change to ensure that you can always go back to a previous file in case of a bug introduction.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	Testing of adding new features, new ideas not ready to be incorporated into main file. Branches help by providing a new file branch where ideas can be tested without altering the functionality of the original files.
