@@ -12,3 +12,6 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
 	They tell you when changes were made to the files and show any new branching off and when they occured
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	We bring the changes of each branch and combine them into just one branch (whichever we checkout will remain). The new head of the merge branches is looking back at both branches that we merge because we have access to all their previous commits.
