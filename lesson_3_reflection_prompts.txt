@@ -15,3 +15,6 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	You can other applications that allows different team members to have access and edit the same documents. This apps also provide the ability to write comments and notes to inform the rest of the team about your changes. Some of the advantages are that many of these apps provide a more friendly user interface that makes it easier to navigate and to share points of conflicts while working in a project.
 	Git and GitHub provide perhaps a better way to deal with changes from different sources without worrying to make actual changes until you have all agreed to.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	Separate branch: allows you to test new features before you are ready to incorporate them into the main document.
